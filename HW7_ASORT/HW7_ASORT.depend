@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606231490 source:c:\users\nadaa\onedrive\documents\___njit\c++\hw7_asort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

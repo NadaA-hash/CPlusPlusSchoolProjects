@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604418715 source:c:\users\nadaa\onedrive\documents\___njit\c++\hw6_c\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<sys/time.h>
+	<stdint.h>
+
