@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1588723827 source:c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\lexicalanalyzer.cpp
+	<iostream>
+	<algorithm>
+	"lex.h"
+	<array>
+
+1587249370 c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\lex.h
+	<string>
+	<iostream>
+
+1588750110 source:c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\parse.cpp
+	"parse.h"
+
+1587249609 c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\parse.h
+	<iostream>
+	"lex.h"
+	"pt.h"
+
+1588791940 c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\pt.h
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	"parse.h"
+	"lex.h"
+	"val.h"
+
+1588790753 source:c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"lex.h"
+	"parse.h"
+	<cxxabi.h>
+	"val.h"
+
+1588030194 c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\val.h
+	<iostream>
+	<string>
+
+1588744903 source:c:\users\nadaa\onedrive\documents\___njit\c++\assignment4\val.cpp
+	"val.h"
+

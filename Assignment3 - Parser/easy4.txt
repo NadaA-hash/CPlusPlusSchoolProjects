@@ -1,0 +1,8 @@
+x = y = z = 10;
+
+println x * y * z * 1;
+foo = x * y * z * 1;
+
+println foo = foo / 12;
+println foo = foo / 12;
+println foo = foo / 12;
