@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1585526527 source:c:\users\nadaa\onedrive\documents\___njit\c++\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"lex.h"
+
+1585528304 source:c:\users\nadaa\onedrive\documents\___njit\c++\assignment2\lexicalanalyzer.cpp
+	<iostream>
+	"lex.h"
+	<array>
+
+1584928424 c:\users\nadaa\onedrive\documents\___njit\c++\assignment2\lex.h
+	<string>
+	<iostream>
+
