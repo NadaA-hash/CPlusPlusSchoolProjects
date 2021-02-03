@@ -1,5 +1,0 @@
-x = foo;
-
-print x;
-foo = 20;
-print x;
